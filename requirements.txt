@@ -3,4 +3,4 @@ opencv-python==4.8.0.76
 tensorflow==2.13.0
 keras==2.13.1
 numpy
-spotipy==2.23.0
+spotify==2.23.0
